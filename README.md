@@ -1,4 +1,4 @@
-#CapBuddy benchmark
+# CapBuddy benchmark
 
 The path of the file is projects/sel4test/apps/sel4test-vbtalloc/src.
 
